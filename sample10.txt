@@ -1,2 +1,2 @@
 sample devops practice
-
+git merge
